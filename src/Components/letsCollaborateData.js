@@ -5,6 +5,7 @@ import embaraceCloudImg from "../images/embraceCloud.jpg";
 
 const data = [
     {
+        id: "1",
         heading: "AI + RPA is what we do",
         image: aiRpaImg,
         description:
@@ -12,6 +13,7 @@ const data = [
         linkText: "AI + RPA Automation",
     },
     {
+        id: "2",
         heading: "Make Bolder Choices",
         image: MakeBolderChoicesImg,
         description:
@@ -19,6 +21,7 @@ const data = [
         linkText: "Build Better Apps",
     },
     {
+        id: "3",
         heading: "Innovate with Speed",
         image: innovateWithSpeedImg,
         description:
@@ -26,6 +29,7 @@ const data = [
         linkText: "DevOps",
     },
     {
+        id: "4",
         heading: "Embrace Cloud",
         image: embaraceCloudImg,
         description:

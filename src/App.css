@@ -1,4 +1,10 @@
 .App {
   /* text-align: center; */
+  /* margin-left: 40px; */
+}
+
+.app-heading {
+  margin: 5% 3%;
+  font-size: 24px;
 }
 
