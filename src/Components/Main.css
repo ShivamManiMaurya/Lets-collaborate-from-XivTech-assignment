@@ -1,7 +1,6 @@
 .main {
     padding: 5% 3%;
     font-family: serif;
-    /* background-color: red; */
 }
 
 .main-heading-h2 {
@@ -78,6 +77,53 @@
   }
 
 
+@media only screen and (min-width: 768px){
+
+    .main {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .main-large {
+        display: flex;
+        justify-content: space-between;
+    }
+    .main-img-div {
+        width: 37rem;
+        height: 23rem;
+        /* margin-left:12rem; */
+        
+    }
+    .main-img {
+        max-height: 100%;
+        max-width: 100%;
+        object-fit:cover;
+    }
+    .main-heading-div {
+        /* margin: 0; */
+    }
+    .main-heading-h2 {
+        font-size: 48px;
+        margin: 0;
+    }
+    .main-description-h3 {
+        font-size: 1.3rem;
+        width: 33.68rem;
+    }
+    .main-linkText-p {
+        font-size: 1.3rem;
+    }
+
+    .main-large-description-div {
+        padding: 9% 0 20% 0;
+    }
+}
+
+@media only screen and (min-width: 1500px){
+    .main-heading-h2 {
+        font-size: 64px
+    }
+}
   
 
 
