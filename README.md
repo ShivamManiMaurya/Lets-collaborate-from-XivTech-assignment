@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Let's-collaborate assignment from XivTech in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this assignment, I have to create a clone of the "Let's Collaborate" component from https://www.xivtech.io. This includes creating the List component for Let's Collaborate including the below child card components.
 
-## Available Scripts
+-   AI + RPA is what we do
+-   Make Bolder Choices
+-   Innovate with speed
+-   Embrace Cloud
 
-In the project directory, you can run:
+## Table of contents
 
-### `npm start`
+-   [Overview](#overview)
+    -   [The Theme](#the-theme)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The Theme
 
-### `npm test`
+-   The deliverable should include the full-size layout as well as the mobile layout.
+-   Have a scroll effect and other effects and animations.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshot
 
-### `npm run build`
+![](./screenshot.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| Desktop View                                                                | Mobile View                                                               |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ![Desktop_view](./src/images/screenshots/Lets_collaborate_Desktop-View.png) | ![Mobile_view](./src/images/screenshots/Lets_collaborate_Mobile-View.png) |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   [Github Solution](https://github.com/ShivamManiMaurya/Lets-collaborate-from-XivTech-assignment)
+-   [Live Site](https://boisterous-clafoutis-910241.netlify.app/)
 
-### `npm run eject`
+## My process
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Built with
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-   HTML5
+-   CSS custom properties
+-   Flexbox
+-   JavaScript
+-   [React](https://reactjs.org/) - JS library
+-   React intersection observer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### What I learned
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-   Introduced with React intersection observer
+-   Get more familiar with transition and transform CSS property
+-   Get more familiar with animations in CSS
+-   Get more familiar with Flexbox
+-   Get more familiar with media query
 
-## Learn More
+### Useful resources
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   [Colby Fayock](https://www.youtube.com/@colbyfayock) - A special thanks to Colby Fayock for helping me in understanding the react intersection observer.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-   Website - [Shivam Maurya](https://shivammanimaurya.github.io/my_portfolio_website/)
+-   GitHub Page - [Shivam Maurya GitHub](https://github.com/ShivamManiMaurya)
+-   Linkedin - [@shivammanimaurya](https://www.linkedin.com/in/shivammanimaurya)
